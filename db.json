@@ -1,28 +1,32 @@
 {
   "characters": [
     {
-      "name": "Amber",
-      "photo": "../assets/chars/Amber.png",
-      "stars": "★★★★☆",
-      "info": "Una chica llena de energía, la única exploradora de los Caballeros de Favonius de Mondstadt."
+      "name": "Xinyan",
+      "photo": "../assets/chars/Xinyan.png",
+      "stars": "★★★★☆",  
+      "soon": true,
+      "info": "En Liyue, el rock and roll es una nueva forma de arte, y Xinyan es la pionera."
     },
     {
-      "name": "Amber",
-      "photo": "../assets/chars/Amber.png",
+      "name": "Zhongli",
+      "photo": "../assets/chars/Zhongli.png",
       "stars": "★★★★☆",
-      "info": "Una chica llena de energía, la única exploradora de los Caballeros de Favonius de Mondstadt."
+      "soon": true,
+      "info": "Un misterioso asesor invitado por la Funeraria El Camino. Apuesto, refinado y poseedor de una sabiduría fuera de lo normal."
     },
     {
-      "name": "Amber",
-      "photo": "../assets/chars/Amber.png",
+      "name": "Diona",
+      "photo": "../assets/chars/Diona.png",
       "stars": "★★★★☆",
-      "info": "Una chica llena de energía, la única exploradora de los Caballeros de Favonius de Mondstadt."
+      "new": true,
+      "info": "La popular cantinera de la Taberna Cola de Gato, una nueva estrella en la industria del vino en Mondstadt y la mayor opositora del statu quo."
     },
     {
-      "name": "Amber",
-      "photo": "../assets/chars/Amber.png",
+      "name": "Tartaglia",
+      "photo": "../assets/chars/Tartaglia.png",
       "stars": "★★★★☆",
-      "info": "Una chica llena de energía, la única exploradora de los Caballeros de Favonius de Mondstadt."
+      "new": true,
+      "info": "Tartaglia es un sujeto imprevisible proveniente de las tierras de Snezhnaya."
     },
     {
       "name": "Amber",
