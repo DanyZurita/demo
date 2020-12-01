@@ -10,7 +10,7 @@
     {
       "name": "Zhongli",
       "photo": "../assets/chars/Zhongli.png",
-      "stars": "★★★★☆",
+      "stars": "★★★★★",
       "soon": true,
       "info": "Un misterioso asesor invitado por la Funeraria El Camino. Apuesto, refinado y poseedor de una sabiduría fuera de lo normal."
     },
@@ -53,138 +53,120 @@
       "info": "Los pocos jóvenes aventureros del Gremio de Aventureros de Mondstadt han sufrido desgracias insospechadas al salir de aventura con Bennett."
     },
     {
-      "name": "Amber",
-      "photo": "../assets/chars/Amber.png",
+      "name": "Chongyun",
+      "photo": "../assets/chars/Chongyun.png",
       "stars": "★★★★☆",
-      "info": "Una chica llena de energía, la única exploradora de los Caballeros de Favonius de Mondstadt."
+      "info": "Con Liyue como su base de operaciones, el exorcista Chongyun vaga por el continente librándolo del mal."
     },
     {
-      "name": "Amber",
-      "photo": "../assets/chars/Amber.png",
-      "stars": "★★★★☆",
-      "info": "Una chica llena de energía, la única exploradora de los Caballeros de Favonius de Mondstadt."
-    },
-
-    {
-      "name": "Amber",
-      "photo": "../assets/chars/Amber.png",
-      "stars": "★★★★☆",
-      "info": "Una chica llena de energía, la única exploradora de los Caballeros de Favonius de Mondstadt."
-    },
-    {
-      "name": "Amber",
-      "photo": "../assets/chars/Amber.png",
-      "stars": "★★★★☆",
-      "info": "Una chica llena de energía, la única exploradora de los Caballeros de Favonius de Mondstadt."
-    },
-    {
-      "name": "Amber",
-      "photo": "../assets/chars/Amber.png",
-      "stars": "★★★★☆",
-      "info": "Una chica llena de energía, la única exploradora de los Caballeros de Favonius de Mondstadt."
-    },
-    {
-      "name": "Amber",
-      "photo": "../assets/chars/Amber.png",
-      "stars": "★★★★☆",
-      "info": "Una chica llena de energía, la única exploradora de los Caballeros de Favonius de Mondstadt."
-    },
-    {
-      "name": "Amber",
-      "photo": "../assets/chars/Amber.png",
-      "stars": "★★★★☆",
-      "info": "Una chica llena de energía, la única exploradora de los Caballeros de Favonius de Mondstadt."
-    },
-    {
-      "name": "Amber",
-      "photo": "../assets/chars/Amber.png",
-      "stars": "★★★★☆",
-      "info": "Una chica llena de energía, la única exploradora de los Caballeros de Favonius de Mondstadt."
-    },
-    {
-      "name": "Amber",
-      "photo": "../assets/chars/Amber.png",
-      "stars": "★★★★☆",
-      "info": "Una chica llena de energía, la única exploradora de los Caballeros de Favonius de Mondstadt."
-    },
-    {
-      "name": "Amber",
-      "photo": "../assets/chars/Amber.png",
-      "stars": "★★★★☆",
-      "info": "Una chica llena de energía, la única exploradora de los Caballeros de Favonius de Mondstadt."
-    },
-    {
-      "name": "Amber",
-      "photo": "../assets/chars/Amber.png",
-      "stars": "★★★★☆",
-      "info": "Una chica llena de energía, la única exploradora de los Caballeros de Favonius de Mondstadt."
-    },
-    {
-      "name": "Amber",
-      "photo": "../assets/chars/Amber.png",
-      "stars": "★★★★☆",
-      "info": "Una chica llena de energía, la única exploradora de los Caballeros de Favonius de Mondstadt."
+      "name": "Diluc",
+      "photo": "../assets/chars/Diluc.png",
+      "stars": "★★★★★",
+      "info": "Como el hombre más rico de Mondstadt, Diluc siempre muestra su lado más exquisito."
     },
 
     {
-      "name": "Amber",
-      "photo": "../assets/chars/Amber.png",
+      "name": "Fischl",
+      "photo": "../assets/chars/Fischl.png",
       "stars": "★★★★☆",
-      "info": "Una chica llena de energía, la única exploradora de los Caballeros de Favonius de Mondstadt."
+      "info": "Una chica misteriosa que se hace llamar la princesa del juicio."
     },
     {
-      "name": "Amber",
-      "photo": "../assets/chars/Amber.png",
-      "stars": "★★★★☆",
-      "info": "Una chica llena de energía, la única exploradora de los Caballeros de Favonius de Mondstadt."
+      "name": "Jean",
+      "photo": "../assets/chars/Jean.png",
+      "stars": "★★★★★",
+      "info": "Jean, la Gran Maestra de los Caballeros de Favonius, siempre se ha dedicado religiosamente a sus tareas dentro de la orden y al mantenimiento de la paz en Mondstadt."
     },
     {
-      "name": "Amber",
-      "photo": "../assets/chars/Amber.png",
+      "name": "Kaeya",
+      "photo": "../assets/chars/Kaeya.png",
       "stars": "★★★★☆",
-      "info": "Una chica llena de energía, la única exploradora de los Caballeros de Favonius de Mondstadt."
+      "info": "Kaeya es la fiel mano derecha de Jean en Ordo Favonius."
     },
     {
-      "name": "Amber",
-      "photo": "../assets/chars/Amber.png",
-      "stars": "★★★★☆",
-      "info": "Una chica llena de energía, la única exploradora de los Caballeros de Favonius de Mondstadt."
+      "name": "Keching",
+      "photo": "../assets/chars/Keching.png",
+      "stars": "★★★★★",
+      "info": "El Equilibrio Terrenal de las Siete Estrellas de Liyue."
     },
     {
-      "name": "Amber",
-      "photo": "../assets/chars/Amber.png",
-      "stars": "★★★★☆",
-      "info": "Una chica llena de energía, la única exploradora de los Caballeros de Favonius de Mondstadt."
+      "name": "Klee",
+      "photo": "../assets/chars/Klee.png",
+      "stars": "★★★★★",
+      "info": "La presencia de la caballera chispeante de los Caballeros de Favonius siempre va acompañada de destellos y explosiones."
     },
     {
-      "name": "Amber",
-      "photo": "../assets/chars/Amber.png",
+      "name": "Lisa",
+      "photo": "../assets/chars/Lisa.png",
       "stars": "★★★★☆",
-      "info": "Una chica llena de energía, la única exploradora de los Caballeros de Favonius de Mondstadt."
+      "info": "Lisa es una bruja muy inteligente con una gran afición por la siesta."
     },
     {
-      "name": "Amber",
-      "photo": "../assets/chars/Amber.png",
-      "stars": "★★★★☆",
-      "info": "Una chica llena de energía, la única exploradora de los Caballeros de Favonius de Mondstadt."
+      "name": "Mona",
+      "photo": "../assets/chars/Mona.png",
+      "stars": "★★★★★",
+      "info": "Una misteriosa joven astróloga que se autoproclama Astróloga Mona Megistus."
     },
     {
-      "name": "Amber",
-      "photo": "../assets/chars/Amber.png",
+      "name": "Ninguang",
+      "photo": "../assets/chars/Ninguang.png",
       "stars": "★★★★☆",
-      "info": "Una chica llena de energía, la única exploradora de los Caballeros de Favonius de Mondstadt."
+      "info": "Resguardada en el palacio flotante, ningún rumor de las personas más influyentes de Liyue se escapa de Ninguang."
     },
     {
-      "name": "Amber",
-      "photo": "../assets/chars/Amber.png",
+      "name": "Noelle",
+      "photo": "../assets/chars/Noelle.png",
       "stars": "★★★★☆",
-      "info": "Una chica llena de energía, la única exploradora de los Caballeros de Favonius de Mondstadt."
+      "info": "Al igual que otros jóvenes de Mondstadt, Noelle sueña en convertirse en una Caballera Honorable de Favonius."
     },
     {
-      "name": "Amber",
-      "photo": "../assets/chars/Amber.png",
+      "name": "Qiqi",
+      "photo": "../assets/chars/Qiqi.png",
+      "stars": "★★★★★",
+      "info": "Qiqi es una aprendiz y recolectora de hierbas de la Farmacia Bubu."
+    },
+
+    {
+      "name": "Razor",
+      "photo": "../assets/chars/Razor.png",
       "stars": "★★★★☆",
-      "info": "Una chica llena de energía, la única exploradora de los Caballeros de Favonius de Mondstadt."
+      "info": "En Mondstadt, algunos dicen que es un huérfano criado por lobos."
+    },
+    {
+      "name": "Sucrose",
+      "photo": "../assets/chars/Sucrose.png",
+      "stars": "★★★★☆",
+      "info": "Una alquimista con una insaciable curiosidad por el mundo y todo lo que hay en él."
+    },
+    {
+      "name": "Viajero",
+      "photo": "../assets/chars/Traveler.png",
+      "stars": "★★★★★",
+      "info": "El protagonista de la aventura, hermanos separados por las fuerzas del destino."
+    },
+    {
+      "name": "Venti",
+      "photo": "../assets/chars/Venti.png",
+      "stars": "★★★★★",
+      "info": "Un bardo misterioso al que le gusta recitar tanto viejos poemas como nuevas canciones de moda."
+    },
+    {
+      "name": "Xiangling",
+      "photo": "../assets/chars/Xiangling.png",
+      "stars": "★★★★☆",
+      "info": "Como la nueva gran chef del Restaurante Wanmin y mesera a tiempo parcial, Xiangling es una gran entusiasta por la comida, en especial la picante."
+    },
+    {
+      "name": "Xiao",
+      "photo": "../assets/chars/Xiao.png",
+      "stars": "★★★★★",
+      "info": "Uno de los poderosos e iluminados Adepti que custodian Liyue. También llamado guardián Yaksha."
+    },
+    {
+      "name": "Xingchiu",
+      "photo": "../assets/chars/Xingchiu.png",
+      "stars": "★★★★☆",
+      "info": "Desde muy pequeño, Xingchiu, el joven maestro del Gremio de Comerciantes de Feiyun de Liyue, fue conocido por ser muy estudioso y educado."
     }
   ]
 }
